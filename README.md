@@ -1,4 +1,4 @@
-# pwmngr
+# PWMNGR
 A PASSWORD MANAGER MADE ON PYTHON
 
 Required modules:
