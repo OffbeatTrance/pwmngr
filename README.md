@@ -11,3 +11,5 @@ Required modules:
   
 
 Feel free to copy my project.
+
+P.S. This works in Visual Code, haven't tested in IDLE, colorama may not work.
